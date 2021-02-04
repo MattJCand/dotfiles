@@ -49,3 +49,5 @@
 [user]
 	email = matyjunes@gmail.com
 	name = Mathieu Junes
+[credential]
+	helper = osxkeychain

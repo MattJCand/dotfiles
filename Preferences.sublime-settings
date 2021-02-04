@@ -2,21 +2,20 @@
 	"color_scheme": "Packages/ayu/ayu-mirage.sublime-color-scheme",
 	"ignored_packages":
 	[
-		"Vintage"
 	],
-	"theme": "ayu-mirage.sublime-theme",
 	"installed_packages":
-  [
-    "AdvancedNewFile",
-    "All Autocomplete",
-    "Babel",
-    "Emmet",
-    "ERB Snippets",
-    "Git",
-    "GitGutter",
-    "Package Control",
-    "SCSS",
-    "SublimeLinter",
-    "SublimeLinter-rubocop"
-  ]
+	[
+		"AdvancedNewFile",
+		"All Autocomplete",
+		"Babel",
+		"Emmet",
+		"ERB Snippets",
+		"Git",
+		"GitGutter",
+		"Package Control",
+		"SCSS",
+		"SublimeLinter",
+		"SublimeLinter-rubocop"
+	],
+	"theme": "ayu-mirage.sublime-theme"
 }
